@@ -1,0 +1,11 @@
+---
+title: "README"
+author: "James Barnes"
+date: "January 26, 2016"
+output: html_document
+---
+
+The project contains the following files:<br>
+run_analysis.r - main script to produce required data sets<br>
+CodeBook.MD - meta data for the data sets created and description of transformations used in run_analysis.r script<br>
+README.MD - this file
